@@ -1,4 +1,4 @@
-# banka
+# Banka Uygulaması
 Basit şekilde hazırlanmış bankacılık örneğidir.Para Çekme/Yatırma,Havale/EFT gibi özellikler de mevcuttur.
 "json,os,re,datetime" modüllerini yüklemeniz gerekmektedir.
 pip install (modül adı) şeklinde konsol üzerinden yükleme yapabilirsiniz.
